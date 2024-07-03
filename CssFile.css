@@ -1,0 +1,480 @@
+
+body{
+	
+	 background:url("images/backGround2.png") no-repeat;
+	/*background-color: #191970;*/
+	text-align: center;
+	padding:0px;
+	margin:0px;
+		
+}
+.wrapper{
+	
+	width: 990px;
+	height: 1080px;
+	margin: 10px auto;
+	/*border: 1px solid green;*/
+    /*background: background: url("backGround.png") no-repeat;*/
+	/*background-color: #191970;*/
+		
+}
+#transparent{
+	
+	width: 990px;
+	height: 990px;
+	/*margin: 10px auto;*/
+	
+}
+#navTable{
+	
+	border : 1.5px solid;
+	margin-left :120px;
+	margin-top: -40px;
+	margin-right : auto;
+	padding : -25px;
+	background-color : black;
+	/*color : #000080;*/
+	color : #F2F2F2;
+	width:600px;
+	opacity:0.6;
+	
+	
+}
+#logoImage{
+	
+    margin-right : 900px;
+	margin-top: 79px;
+	padding-left: 5px;	
+}
+img{
+	
+
+	margin-right : 900px;
+	margin-top: 65px;
+	padding : -23px;
+	
+}
+#home{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	
+}
+td{
+	
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 89px;
+	transition: 1.5s;
+	font-weight:bold;
+	
+}
+a{
+	padding: 0px;
+}
+.nav_link{
+	
+	/*color : #000080;*/
+	color : #F2F2F2;
+	text-decoration: none;
+	font-size:25px;
+	border-radius: 10px;
+	font-family: century Gothic;
+	
+}
+.nav_link:hover{
+	
+	background: #000080;
+	transition: 0.9s;
+	
+}
+hr{
+	
+	margin-top: 25px;
+	
+}
+h1{
+	
+	margin-top:60px;
+	font-family: century Gothic;
+	/*color : #000080;*/
+	color : #F2F2F2;
+}
+
+p{
+	margin-top:60px;
+	font-family: century Gothic;
+	/*color : #000080;*/
+	color : #F2F2F2;
+	font-size:15px;
+	text-align:left;
+	margin-left:79px;
+	
+}
+
+.instruct{
+	
+	margin-top:50px;
+	font-family: century Gothic;
+	/*color : #000080;*/
+	font-size:15px;
+	text-align:left;
+	margin-left:45px;
+}
+h3{
+	
+	margin-top:80px;
+	font-family: century Gothic;
+	/*color : #000080;*/
+	color : #F2F2F2;
+	text-align:left;
+	margin-left:80px;
+	
+}
+#black_background{
+
+	background-color: black;
+	margin-left:580px;
+	margin-top:60px;
+	width:350px;
+	opacity:0.8;
+}
+.form{
+	
+	/*margin-left:570px;
+	margin-top:60px;*/
+	text-align:center;
+	color : #F2F2F2;
+	font-family: century Gothic bold;
+	padding: 5px;
+	
+	
+}
+input{
+	
+	width:288px;
+	height:35px;
+	color : blue;
+	/*color : #F2F2F2;*/
+	font-family: century Gothic;
+	font-weight:bold;
+}
+::-webkit-input-placeholder{
+	
+	/*color : #000080;*/
+	color : black;
+	font-family: century Gothic;
+	font-size:14px;
+}
+#button{
+	color : black;
+	width:150px;
+	
+}
+/*table{
+	
+	padding:5px;
+	
+}*/
+ul{
+	
+	list-style:none;
+	
+}
+.icons{
+	
+	
+	
+	
+}
+#black_background2{
+	
+	margin-top:-392px;
+	background-color: black;
+	width:350px;
+	height:331px;
+	margin-left:45px;
+	opacity:0.8;
+}
+#iconApp{
+	
+	margin-top: 3px;
+}
+#iconApp2{
+	
+	margin-top: -30px;
+}
+#iconMail{
+	
+	margin-top: -30px;
+	margin-left:-80px
+}
+#iconMail2{
+	margin-top: -50px;
+	margin-left:79px
+}
+#iconTwi{
+	
+	margin-top: 8px;
+	margin-left:1px;
+	
+	
+}
+#iconTwi2{
+	
+	margin-top: -30px;
+	margin-left:80px;
+	
+}
+#iconfac{
+	
+	margin-top: -1px;
+	margin-left:0px;
+	
+}
+#iconfac2{
+	
+	margin-top: -28px;
+	margin-left:85px;
+	
+}
+h3{
+	color : #F2F2F2;
+	/*color : #008880;*/
+	Margin-bottom:-5px;
+}
+.contact{
+	
+	font-weight: 90px;
+	padding-top:5px;
+	margin-top:60px;
+	font-family: century Gothic;
+	/*color : #000080;*/
+	color : #F2F2F2;
+	font-size:17px bold;
+	text-align:left;
+	margin-left:80px;
+}
+#navTable2{
+	
+	border : 1.5px solid;
+	margin-left :auto;
+	margin-right :auto;
+	margin-top: 140px;
+	padding : -100px;
+	background-color : black;
+	/*color : #000080;*/
+	color : #F2F2F2;
+	opacity:0.6;
+	
+}
+#footer{
+	
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+}
+#white_ground{
+	
+	/*background: url("backGround.png") no-repeat;*/
+	
+}
+
+#image1{
+	
+	margin-left:6px;
+	padding:-22px;
+	
+}
+#image2{
+	
+	margin-left:118px;
+	margin-top:-285px;
+	padding:-22px;
+	
+}
+#image3{
+	
+	padding:-30px;
+	margin-left:568px;
+	margin-top:-370px;
+	
+	
+}
+#image12{
+	
+	padding:-30px;
+	margin-left:5px;
+	margin-top:-150px;
+	
+}
+#image13{
+	
+	padding:-30px;
+	margin-left:300px;
+	margin-top:-135px;
+}
+#image14{
+	
+	padding:-30px;
+	margin-left:620px;
+	margin-top:-135px;
+}
+#left{
+	
+	/*padding:-22px;*/
+	margin-left:41px;
+	/*padding:-100px;*/
+	margin-top:-10px;
+	width:350px;
+	background-color:black;
+	float:left;
+	opacity:0.7;
+	
+}
+#right{
+	
+	margin-left:390px;
+	margin-top:-40px;
+	/*margin-bottom:130px;*/
+	/*padding:-22px;*/
+	width:540px;
+	background-color:black;
+	opacity:0.7;
+	height:258px;
+}
+#aboutImage{
+	margin-top:-10px;
+	/*opacity:0.2;*/
+}
+#para{
+	
+	margin-left:-9px;
+	
+}
+#para_about{
+	
+	margin-top:20px;
+	margin-left:-9px;
+	
+}
+#para2{
+	
+	margin-left:-9px;
+	margin-top:20px
+}
+#para_about2{
+	
+	margin-left:-9px;
+	margin-top:20px;
+}
+#aboutLogo{
+	
+	width:110px;
+	height:40px;
+}
+b{
+
+	font-size:25px;
+	
+}
+h2{
+	
+	margin-top:50px;
+	color : #F2F2F2;
+	margin-right:610px;
+	font-family: century Gothic;
+}
+#image9{
+	
+	margin-top:12px;
+	margin-left:80px;
+	padding:-22px;
+}
+#image10{
+	
+	padding:-22px;
+	margin-left:200px;
+	margin-top:-220px;
+}
+button{
+	
+	background-color:blue;
+	color : #F2F2F2;
+	font-family: century Gothic;
+	font-weight:bold;
+	height:60px;
+	font-size:15px;
+	margin-left:380px;
+	margin-top:-190px;
+}
+#navTableHome{
+	
+	border : 1.5px solid;
+	margin-left :auto;
+	margin-right :auto;
+	margin-top: 10px;
+	padding : -100px;
+	background-color : black;
+	/*color : #000080;*/
+	color : #F2F2F2;
+	opacity:0.6;
+	
+}
+#PhotoShop{
+	
+	margin-top:35px;
+	margin-left:120px;
+	padding:-22px;
+}
+#photoPara{
+	
+	margin-top:35px;
+	margin-left:140px;
+	padding:-22px;
+	color:black;
+	font-weight:bold;
+}
+#Premiere{
+	
+	margin-top:-210px;
+	margin-left:345px;
+	padding:-22px;
+	
+}
+#premierePara{
+	
+	margin-top:-35px;
+	margin-left:365px;
+	padding:-22px;
+	color:black;
+	font-weight:bold;
+}
+#Css3{
+	
+	margin-top:-210px;
+	margin-left:580px;
+	padding:-22px;
+}
+#Css3Para{
+	
+	margin-top:-32px;
+	margin-left:600px;
+	padding:-22px;
+	color:black;
+	font-weight:bold;
+}
+#HTML5{
+	
+	margin-top:-215px;
+	margin-left:780px;
+	padding:-22px;
+}
+#HTML5Para{
+	
+	margin-top:-35px;
+	margin-left:805px;
+	padding:-22px;
+	color:black;
+	font-weight:bold;
+}
